@@ -1,0 +1,1 @@
+Some excerise on JavaScript ES6
