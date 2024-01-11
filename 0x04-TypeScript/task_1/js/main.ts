@@ -18,3 +18,5 @@ const createTeacher = (teacher: Teacher): Teacher => {
 
   return teacher;
 };
+
+export { Teacher, createTeacher }
